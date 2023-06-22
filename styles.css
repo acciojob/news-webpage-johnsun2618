@@ -22,7 +22,7 @@
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
-.box1 {
+.header {
     width: 25%;
     height: fit-content;
     border-radius: 6%;
@@ -30,7 +30,7 @@
     padding: 2%;
 }
 
-.box1 ul {
+.header ul {
     display: inline-block;
     text-align: left;
 }
