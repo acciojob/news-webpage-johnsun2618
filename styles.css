@@ -35,7 +35,7 @@
     text-align: left;
 }
 
-.box2 {
+.latest-news-section {
     width: 50%;
     height: fit-content;
     margin-right: 5px;
@@ -43,18 +43,18 @@
     padding: 2%;
 }
 
-.box3 {
+.pictorial-news-section {
     width: 25%;
     border-radius: 6%;
     padding: 1%;
 }
 
-.box3 div {
+.pictorial-news-section div {
     width: 95%;
     margin: auto;
 }
 
-.box3 div img {
+.pictorial-news-section div img {
     width: 100%;
     margin-bottom: 10px;
 }
