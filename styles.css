@@ -1,1 +1,60 @@
 /*  your css code here. If applicable */
+#header {
+    height: 65px;
+    background-color: #011e29;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#mainBox {
+    width: 96%;
+    /* border: 2px solid black; */
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#mainBox div {
+    /* border: 1px solid red; */
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.box1 {
+    width: 25%;
+    height: fit-content;
+    border-radius: 6%;
+    margin-right: 5px;
+    padding: 2%;
+}
+
+.box1 ul {
+    display: inline-block;
+    text-align: left;
+}
+
+.box2 {
+    width: 50%;
+    height: fit-content;
+    margin-right: 5px;
+    border-radius: 6%;
+    padding: 2%;
+}
+
+.box3 {
+    width: 25%;
+    border-radius: 6%;
+    padding: 1%;
+}
+
+.box3 div {
+    width: 95%;
+    margin: auto;
+}
+
+.box3 div img {
+    width: 100%;
+    margin-bottom: 10px;
+}
