@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#header {
+.header {
     height: 65px;
     background-color: #011e29;
     color: aliceblue;
@@ -22,7 +22,7 @@
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
-.header {
+#header {
     width: 25%;
     height: fit-content;
     border-radius: 6%;
